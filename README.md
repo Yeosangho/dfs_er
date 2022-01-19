@@ -46,7 +46,7 @@
 
 * 실험 결과 : 최대 60.3 % 의 스코어 상승이 확인됨. 
 
-<img src="images/eval1.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="images/eval1.PNG" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
 -----
 
@@ -75,7 +75,7 @@
     * DQfD에 적용했을때와 달리 소폭의 에피소드 수 증가(3.3%)
       * 이것은 제안기법 적용 시 에이전트가 죽지 않고 오래살아남아 에피소드 수가 크게 증가하지 않은것으로 가정.
 
-<img src="images/eval2.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="images/eval3.PNG" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
 
 ## 5. 실행방법. 
